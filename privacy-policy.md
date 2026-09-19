@@ -4,7 +4,8 @@ title: Cold Logic — Privacy Policy
 
 # Privacy Policy
 
-**Cold Logic** — Last updated: 18 September 2026
+**Cold Logic**
+Last updated: 19 September 2026
 
 Cold Logic is a puzzle game made by Eren Avar Studio. This page explains what the app does and does not do with information. It is short because the app does very little.
 
@@ -12,9 +13,9 @@ Cold Logic is a puzzle game made by Eren Avar Studio. This page explains what th
 
 Cold Logic has no accounts, no sign-up and no login. There is no server behind the app, and we operate no database of users.
 
-We do not collect, store or transmit your name, email address, phone number, contacts, photos, files, location, or any identifier that points to you. We have no analytics, no crash reporting and no tracking of how you use the app.
+**Eren Avar Studio** does not collect, store or transmit your name, email address, phone number, contacts, photos or files. We run no analytics of our own and no crash reporting. We cannot see your progress, your puzzle history, your streak or your statistics, because none of it ever leaves your device.
 
-We cannot see your progress, your puzzle history, your streak or your statistics, because none of it ever leaves your device.
+There is one exception, and it is described in full under *Advertising* below: when an ad is requested, Google's advertising SDK collects a limited set of data directly on Google's behalf. That data goes to Google, not to us, and we never receive it.
 
 ## What stays on your device
 
@@ -32,19 +33,28 @@ This data is held in the app's own storage. It is removed when you uninstall the
 
 Cold Logic shows optional rewarded video ads. You are never required to watch one; every reward an ad offers is also available without it.
 
-Ads are provided by Google AdMob. When an ad is loaded, AdMob may receive device information and an advertising identifier, and may use them to select and measure ads. This is the only point at which any information leaves your device, and it happens only when an ad is actually requested.
+Ads are provided by **Google AdMob**. When an ad is requested, Google's advertising SDK may collect and use the following directly:
 
-Before any ad is loaded, the app asks for your consent using Google's official consent form. If you decline, or if you are offline, the app continues to work normally — it simply shows no ads.
+- **Device or other identifiers** — your device's advertising ID and App Set ID
+- **Approximate location** — a general area inferred from your IP address, never GPS
+- **App interactions** — events such as app opens and interactions with an ad
+- **Diagnostics** — technical measurements such as launch time and performance
 
-You can read how Google handles this data here: [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+Google uses this data to select and measure advertising, for its own analytics, and to prevent fraud. It is collected by Google directly and does not pass through us; we never see it, and it is the only point at which any information leaves your device.
+
+Where consent is legally required, the app asks for yours using Google's official consent form before any ad is loaded. If you decline, or if you are offline, the app continues to work normally — it simply shows no ads.
+
+You can read how Google handles this data here:
+<https://policies.google.com/technologies/partner-sites>
 
 On Android you can reset or delete your advertising identifier at any time in your device settings, under Google → Ads.
 
 ## Purchases
 
-Cold Logic Pro is a single one-time purchase, processed by Google Play. We never see or receive your payment details. Google Play tells the app only whether a purchase exists, so it can unlock the content.
+Cold Logic Pro is a single one-time purchase, processed by **Google Play**. We never see or receive your payment details. Google Play tells the app only whether a purchase exists, so it can unlock the content.
 
-You can read Google Play's privacy terms here: [policies.google.com/privacy](https://policies.google.com/privacy)
+You can read Google Play's privacy terms here:
+<https://policies.google.com/privacy>
 
 ## Children
 
@@ -60,13 +70,14 @@ If this policy changes, the revised version will be published on this page with 
 
 ## Contact
 
-Questions about this policy: [erenavar@gmail.com](mailto:erenavar@gmail.com)
+Questions about this policy: **erenavar@gmail.com**
 
 ---
 
 # Datenschutzerklärung
 
-**Cold Logic** — Zuletzt aktualisiert: 18. September 2026
+**Cold Logic**
+Zuletzt aktualisiert: 19. September 2026
 
 Cold Logic ist ein Rätselspiel von Eren Avar Studio. Diese Seite erklärt, was die App mit Daten macht und was nicht. Sie ist kurz, weil die App sehr wenig macht.
 
@@ -74,9 +85,9 @@ Cold Logic ist ein Rätselspiel von Eren Avar Studio. Diese Seite erklärt, was 
 
 Cold Logic hat keine Konten, keine Registrierung und keine Anmeldung. Hinter der App steht kein Server, und wir betreiben keine Nutzerdatenbank.
 
-Wir erheben, speichern und übertragen weder Ihren Namen noch Ihre E-Mail-Adresse, Telefonnummer, Kontakte, Fotos, Dateien, Ihren Standort oder eine sonstige Kennung, die auf Sie verweist. Es gibt keine Analyse-Werkzeuge, keine Absturzberichte und keine Auswertung Ihrer Nutzung.
+**Eren Avar Studio** erhebt, speichert und überträgt weder Ihren Namen noch Ihre E-Mail-Adresse, Telefonnummer, Kontakte, Fotos oder Dateien. Wir setzen keine eigenen Analyse-Werkzeuge und keine Absturzberichte ein. Ihren Fortschritt, Ihren Rätselverlauf, Ihre Serie und Ihre Statistiken können wir nicht einsehen, weil nichts davon Ihr Gerät jemals verlässt.
 
-Ihren Fortschritt, Ihren Rätselverlauf, Ihre Serie und Ihre Statistiken können wir nicht einsehen, weil nichts davon Ihr Gerät jemals verlässt.
+Es gibt eine Ausnahme, die unten unter *Werbung* vollständig beschrieben ist: Beim Anfordern einer Anzeige erhebt das Werbe-SDK von Google eine begrenzte Menge an Daten unmittelbar für Google. Diese Daten gehen an Google, nicht an uns, und wir erhalten sie zu keinem Zeitpunkt.
 
 ## Was auf Ihrem Gerät bleibt
 
@@ -94,19 +105,28 @@ Diese Daten liegen im eigenen Speicher der App. Bei der Deinstallation werden si
 
 Cold Logic zeigt optionale Rewarded-Video-Werbung. Sie müssen sich nie ein Video ansehen; jede Belohnung, die ein Video bietet, ist auch ohne verfügbar.
 
-Die Werbung wird von Google AdMob bereitgestellt. Beim Laden einer Anzeige können Geräteinformationen und eine Werbe-ID an AdMob übermittelt und zur Auswahl und Messung von Anzeigen verwendet werden. Dies ist der einzige Punkt, an dem Daten Ihr Gerät verlassen, und er tritt nur ein, wenn tatsächlich eine Anzeige angefordert wird.
+Die Werbung wird von **Google AdMob** bereitgestellt. Beim Anfordern einer Anzeige kann das Werbe-SDK von Google Folgendes unmittelbar erheben und verwenden:
 
-Bevor eine Anzeige geladen wird, fragt die App über das offizielle Einwilligungsformular von Google nach Ihrer Zustimmung. Wenn Sie ablehnen oder offline sind, funktioniert die App normal weiter — sie zeigt dann einfach keine Werbung.
+- **Geräte- oder andere Kennungen** — die Werbe-ID Ihres Geräts und die App-Set-ID
+- **Ungefährer Standort** — eine grobe Region, aus Ihrer IP-Adresse abgeleitet, niemals GPS
+- **App-Interaktionen** — Ereignisse wie App-Starts und Interaktionen mit einer Anzeige
+- **Diagnosedaten** — technische Messwerte wie Startzeit und Leistung
 
-Wie Google mit diesen Daten umgeht, lesen Sie hier: [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+Google verwendet diese Daten zur Auswahl und Messung von Werbung, für eigene Analysen und zur Betrugsprävention. Sie werden unmittelbar von Google erhoben und laufen nicht über uns; wir sehen sie nie. Dies ist der einzige Punkt, an dem Daten Ihr Gerät verlassen.
+
+Wo eine Einwilligung gesetzlich erforderlich ist, fragt die App über das offizielle Einwilligungsformular von Google danach, bevor eine Anzeige geladen wird. Wenn Sie ablehnen oder offline sind, funktioniert die App normal weiter — sie zeigt dann einfach keine Werbung.
+
+Wie Google mit diesen Daten umgeht, lesen Sie hier:
+<https://policies.google.com/technologies/partner-sites>
 
 Unter Android können Sie Ihre Werbe-ID jederzeit in den Geräteeinstellungen unter Google → Werbung zurücksetzen oder löschen.
 
 ## Käufe
 
-Cold Logic Pro ist ein einmaliger Kauf, der über Google Play abgewickelt wird. Ihre Zahlungsdaten sehen und erhalten wir zu keinem Zeitpunkt. Google Play teilt der App lediglich mit, ob ein Kauf vorliegt, damit die Inhalte freigeschaltet werden können.
+Cold Logic Pro ist ein einmaliger Kauf, der über **Google Play** abgewickelt wird. Ihre Zahlungsdaten sehen und erhalten wir zu keinem Zeitpunkt. Google Play teilt der App lediglich mit, ob ein Kauf vorliegt, damit die Inhalte freigeschaltet werden können.
 
-Die Datenschutzbestimmungen von Google Play finden Sie hier: [policies.google.com/privacy](https://policies.google.com/privacy)
+Die Datenschutzbestimmungen von Google Play finden Sie hier:
+<https://policies.google.com/privacy>
 
 ## Kinder
 
@@ -122,4 +142,4 @@ Bei Änderungen wird die überarbeitete Fassung mit neuem Datum auf dieser Seite
 
 ## Kontakt
 
-Fragen zu dieser Erklärung: [erenavar@gmail.com](mailto:erenavar@gmail.com)
+Fragen zu dieser Erklärung: **erenavar@gmail.com**
